@@ -1,4 +1,4 @@
-public class PrimeNumbers {
+public class prime {
     public static void main(String[] args) {
         System.out.println("Prime numbers between 1 and 100:");
         
